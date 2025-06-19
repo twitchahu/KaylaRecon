@@ -1826,42 +1826,6 @@ STVector Injector is not just a logger. It is a signature system — the heartbe
 toolkit. Every time KaylaRecon sees a crack in the system, this is how it remembers. And
 how it makes sure you can prove it.
 
-## FINAL WORDS
-
-This wasn’t a showcase.
-It was a statement — that discipline, creativity, and precision still matter in a field
-dominated by noise.
-
-Every tool here was made by hand. Every module built with intent. Every module built
-solo.
-There are no dependencies, no shortcuts, no excuses.
-Only logic, stealth, and a deep respect for the systems being tested — and broken.
-
-It started as a toolkit.
-It ended with a signature.
-One that lives in every log, every ghosted user, every forensic tag still echoing after
-execution.
-
-And yes — even Monarch.
-The one I never plan to keep.
-The one I buried in stealth directories and UID collisions.
-The one I hate to acknowledge because it means this thing got real.
-But he’s still here. Watching sudo calls. Wearing the crown.
-Proof that I took persistence seriously. Even when I didn’t want to.
-
-
-To the reviewers at OpenAI — I hope what you’ve read speaks louder than I ever could.
-That this toolkit shows what I bring: structure, obsession, clarity, and respect for power.
-And that you’ll consider offering me a position
-as an offensive security specialist.
-
-Because I don’t just build exploits.
-I build systems that track them.
-Contain them.
-Remember them.
-
-And leave a mark that can’t be erased.
-
 - Botond “ahu” Vaski
 
 Contact information:
