@@ -46,8 +46,6 @@ module, Scorch is a system burn directive — neutralizing services, breaking so
 bindings, and cutting all forms of automated or interactive ingress, short of a trusted
 SSH fallback. It is not a kill-switch. It is a purge mechanism — designed for scorched-
 earth extraction, containment of live compromise, or weaponized denial of access in red
-
-
 team objectives. In this mode, KaylaRecon enforces digital sterilization with zero
 ambiguity.
 
