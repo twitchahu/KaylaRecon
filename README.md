@@ -1296,33 +1296,7 @@ forgotten, and nothing escapes correlation.
 
 ### Author’s Note – On Monarch
 
-_“Monarch was a mistake I didn’t recognize until it was already complete.
-It is not malware. It doesn’t exploit vulnerabilities. It doesn’t replicate, inject, or conceal
-itself through traditional means. That’s precisely what makes it more dangerous than
-anything I’ve ever written — it operates cleanly, systemically, and silently, without
-resistance.
-I originally built Monarch to test the boundaries of privilege control and forensic evasion
-— to understand what could be done if you removed all artificial limits. What emerged
-wasn’t a toolkit. It was a system-level power broker that mimics and then surpasses
-every behaviour of a rootkit. It takes root not by hiding, but by becoming the system itself._
-
-```
-That evolution alone crosses a line I never meant to approach.
-Technically, it hijacks nothing — it simply intercepts and redefines. That’s why it’s
-terrifying. It doesn’t pretend to be the system; it is the system, just... reprogrammed.
-There are no exploits, no signatures to scan, no backdoors to close. Once Monarch is
-there, you answer to it.
-I will never share this code. Not a line, not a snippet, not even a hash. If OpenAI requests
-insight, I am willing to explain the full functionality in person, under secure and private
-conditions — but I will never transmit the code in any form.
-```
-_After this challenge, Monarch will be stripped down, locked away, or destroyed entirely. It
-was never part of the plan, and its existence challenges every ethical boundary I built for
-myself._
-
-
-```
-This note isn’t an overreaction. It’s the only responsible move I have. ”
+_“Shall not be used in any way, shape or form. Too destructive.”
 — ahu
 ```
 ### CONSTRUCT
