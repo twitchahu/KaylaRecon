@@ -22,7 +22,7 @@ custom reconnaissance. These modules in this state – especially Monarch – ar
 borderline cyberweapons and should NEVER be used outside of my supervision as I
 completely understand what the code does, safe to say I went way overboard. Toned-
 down version is still dangerous in the wrong hands; the toolkit is not to be used without
-an experienced red teamer’s supervision.”
+an experienced red teamer’s supervision. Happy reading! :D”
 ```
 
 ## CONSTRUCT
@@ -1296,8 +1296,8 @@ forgotten, and nothing escapes correlation.
 
 ### Author’s Note – On Monarch
 
-_“Shall not be used in any way, shape or form. Too destructive.”
-— ahu
+“Shall not be used in any way, shape or form. Too destructive.”
+- ahu
 ```
 ### CONSTRUCT
 
